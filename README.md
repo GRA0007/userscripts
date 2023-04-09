@@ -10,6 +10,7 @@ For more details on each script, see specific READMEs in `/scripts/<script-name>
 | ---- | ----------- |
 | [Smoothroll](./scripts/smoothroll) | Clean crunchyroll viewing experience |
 | [Twitch Auto Dark Mode](./scripts/twitch-auto-dark-mode) | Sync Twitch dark theme with your system color scheme |
+| [Twitch Channel Points Clicker](./scripts/twitch-channel-points-clicker) | Auto-click the channel point bonus buttons |
 | [Pulp No Overscroll](./scripts/pulp-no-overscroll) | Prevent overscroll on mac when using the scroll wheel to emulate the crank in the Playdate Pulp web player |
 | [Harvest Time Tracker Simplifier](./scripts/harvest-time-tracker-simplifier) | Hide the header and footer for a simple tracking experience |
 | [Web Archive Save Link](./scripts/web-archive-save-link) | Adds a save button to web archive pages |
