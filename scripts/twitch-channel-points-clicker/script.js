@@ -3,7 +3,7 @@
 // @namespace    https://bengrant.dev
 // @version      0.2
 // @description  Auto-click the channel point bonus buttons
-// @author       Ben Grant
+// @author       Benji Grant
 // @match        https://www.twitch.tv/*
 // @icon         http://www.google.com/s2/favicons?domain=twitch.tv
 // @license      MIT
