@@ -30,6 +30,7 @@ document.body.addEventListener('load', () => {
   saveLink.style.left = '25px'
   saveLink.style.padding = '8px 12px'
   saveLink.style.zIndex = '10000000000'
+  saveLink.style.textDecoration = 'underline'
   saveLink.append(document.createTextNode('Save URL'))
 
   document.querySelector('#wm-ipp-base').after(saveLink)
