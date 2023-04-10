@@ -10,6 +10,10 @@ This userscript will automatically switch the Twitch website to light mode when 
 
 ## Changelog
 
+### v0.2 (Apr 10, 2023)
+
+- Also trigger initial code on window load
+
 ### v0.1 (Feb 1, 2022)
 
 - Initial release

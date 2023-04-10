@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Twitch Auto Dark Mode
 // @namespace    https://bengrant.dev
-// @version      0.1
+// @version      0.2
 // @description  Sync Twitch dark theme with system color scheme
 // @author       Benji Grant
 // @match        https://www.twitch.tv/*
@@ -26,6 +26,11 @@ const setIsDark = isDark => {
   }
 }
 
-setIsDark(darkQuery.matches)
+const init = () => {
+  setIsDark(darkQuery.matches)
+  darkQuery.addListener(e => setIsDark(e.matches))
+}
 
-darkQuery.addListener(e => setIsDark(e.matches))
+window.onload = init
+
+init()
