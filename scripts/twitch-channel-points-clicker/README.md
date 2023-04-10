@@ -11,3 +11,9 @@ Automatically click on the "bonus" twitch channel point button so you can get ex
 ## Screenshots
 
 ![A screenshot of channel points on Twitch with text displaying how many bonuses have been collected](./screenshot_1.jpg)
+
+## Changelog
+
+### v0.2 (9 Apr, 2023)
+
+- Intial release

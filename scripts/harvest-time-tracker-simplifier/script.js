@@ -3,7 +3,8 @@
 // @namespace    https://bengrant.dev
 // @version      0.2
 // @description  Hide the header and footer for a simple tracking experience
-// @author       Ben Grant
+// @author       Benji Grant
+// @license      MIT
 // @match        https://*.harvestapp.com/*
 // @grant        none
 // ==/UserScript==

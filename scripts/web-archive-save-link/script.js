@@ -1,7 +1,7 @@
 // ==UserScript==
 // @icon         http://web.archive.org/favicon.ico
 // @name         Web Archive Save Link
-// @version      2.0.0
+// @version      2.0
 // @description  Adds a save button to web archive pages.
 // @author       Benji Grant
 // @license      MIT

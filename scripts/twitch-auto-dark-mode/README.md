@@ -7,3 +7,9 @@ Sync Twitch dark theme with your system color scheme
 ## Description
 
 This userscript will automatically switch the Twitch website to light mode when your system is in light mode, and dark mode when your system is in dark mode.
+
+## Changelog
+
+### v0.1 (Feb 1, 2022)
+
+- Initial release

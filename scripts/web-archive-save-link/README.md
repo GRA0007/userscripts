@@ -14,7 +14,7 @@ Just adds a simple 'save' button to the header on all web archive pages. (http:/
 
 ## Changelog
 
-### v2.0.0 (Apr 10, 2023)
+### v2.0 (Apr 10, 2023)
 
 - Updated to work as of April 2023
 

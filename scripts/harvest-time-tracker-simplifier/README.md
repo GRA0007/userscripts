@@ -13,3 +13,9 @@ To show the header and footer, press "H" on the keyboard.
 ## Screenshots
 
 ![A screenshot of the Harvest website with the header and footer hidden](./screenshot_1.jpg)
+
+## Changelog
+
+### v0.2 (Aug 27, 2020)
+
+- Initial release

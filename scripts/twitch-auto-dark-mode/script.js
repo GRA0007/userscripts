@@ -3,7 +3,7 @@
 // @namespace    https://bengrant.dev
 // @version      0.1
 // @description  Sync Twitch dark theme with system color scheme
-// @author       Ben Grant
+// @author       Benji Grant
 // @match        https://www.twitch.tv/*
 // @icon         http://www.google.com/s2/favicons?domain=twitch.tv
 // @grant        none
